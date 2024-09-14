@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project is an implementation of a MySQL-based database for the **COMP20070** assignment. The database is designed to handle data for a hospital job management system, tracking job vacancies, candidates, interviews, and job offers across various hospitals. The system allows hospitals to advertise job positions requiring specific skills and to manage candidate interviews and job offers.
+This project is an implementation of a MySQL-based database. The database is designed to handle data for a hospital job management system, tracking job vacancies, candidates, interviews, and job offers across various hospitals. The system allows hospitals to advertise job positions requiring specific skills and to manage candidate interviews and job offers.
 
 ## Features
 
